@@ -4,7 +4,7 @@
 
 Jupyter Notebook on how to use PyTorch to approximate functions with neural networks and solve PDE
 
-+ Intro to PyTorch and Tensors
++ Intro to PyTorch
 + Intro to automatic differentiation
 + Intro to gradient-based optimization
 + Intro to PINN (physics-informed neural network)
